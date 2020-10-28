@@ -2,6 +2,8 @@
 
 This is an overall analysis (using Python) of a complete data set from a recent animal study involving 250 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. My task was to generate all of the tables and figures needed for the technical report of the study as well as a top-level summary of the study results.
 
+![Pharm](images/pharm.jpg)
+
 ## Analysis Summary
 
 * Generated a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
