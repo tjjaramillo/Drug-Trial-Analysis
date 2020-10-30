@@ -21,6 +21,7 @@ This is an overall analysis (using Python) of a complete data set from a recent 
 * Generated a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
 
 * Calculated the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plotted the linear regression model on top of the previous scatter plot.
+
 ![download](images/download.png)
 
 * Looked across all previously generated figures and tables to write observations or inferences that can be made from the data.
