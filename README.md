@@ -10,15 +10,25 @@ This is an overall analysis (using Python) of a complete data set from a recent 
 
 * Generated a bar plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the number of data points for each treatment regimen.
 
+![barchart](images/barchart1.png)
+
 * Generated a pie plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the distribution of female or male mice in the study.
+
+![piechart](images/piechart1.png)
 
 * Calculated the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. Calculated the quartiles and IQR and quantitatively determined if there were any potential outliers across all four treatment regimens.
 
-* Using Matplotlib, generated a box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style.
+* Using Matplotlib, generated a box and whisker plot of the final tumor volume for all four treatment regimens and highlighted any potential outliers in the plot by changing their color and style.
+
+![boxplot](images/boxplot1.png)
 
 * Generated a line plot of time point versus tumor volume for a single mouse treated with Capomulin.
 
+![lineplot](images/lineplot1.png)
+
 * Generated a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
+
+![scatterplot](images/scatterplot1.png)
 
 * Calculated the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plotted the linear regression model on top of the previous scatter plot.
 
